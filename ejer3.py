@@ -4,4 +4,4 @@ def count_spaces(n):
         if x ==' ':
             c += 1
     print(c)
-count_spaces('n o s o m o s')
+count_spaces('n o s o m o s n o')
